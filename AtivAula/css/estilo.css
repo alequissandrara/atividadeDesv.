@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.titulo{
+    padding: 25px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/*configuração da aba navegação*/
+nav{
+    margin: 0px 90% -15% 1px;
+    padding: 0px 20px 320px 2px;
+    border: 2px solid black;
+    text-align: left;
+ 
+}
+
+ul{
+    
+   padding-bottom: 15px;
+   padding-left: 30px;
+}
+
+article{
+    float: left;
+    margin: -398px 0 0 10%;
+    padding:-1px 0px 285px 5%;
+    border: 2px solid black;
+}
+
+
+ 
